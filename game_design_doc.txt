@@ -1,0 +1,19 @@
+██╗   ██╗ █████╗ ███╗   ███╗██████╗ ██╗██████╗ 
+██║   ██║██╔══██╗████╗ ████║██╔══██╗██║██╔══██╗
+██║   ██║███████║██╔████╔██║██████╔╝██║██████╔╝
+╚██╗ ██╔╝██╔══██║██║╚██╔╝██║██╔═══╝ ██║██╔══██╗
+ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║██║     ██║██║  ██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
+        a Social Deduction Game
+
+Like every social deduction game, Vampir consists of an informed minority 
+competing against an uninformed majority:
+    Vampires vs Miners
+
+Win Conditions:
+    Vampires -  Kill all miners OR
+                Survive 5 nights
+    
+    Miners -    Kill all vampires OR
+                Complete all tasks before the end of night 5
+
